@@ -35,7 +35,7 @@ JavaScript application that converts Celsius to Fahrenheit.
 
 ### Portfolio Website
 
-[My personal portfolio website]: (https://github.com/RonnKarimi/portfolio)
+My personal portfolio website: https://github.com/RonnKarimi/portfolio
 
 ## Goals
 
