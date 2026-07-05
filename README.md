@@ -47,9 +47,9 @@ My personal portfolio website.
 
 ## Contact
 
-GitHub: https://github.com/yourusername
+[GitHub]: (https://github.com/RonnKarimi)
 
-Email: your-email@example.com
+[Email]: (ronnmwangi17@gmail.com)
 
 ---
 
