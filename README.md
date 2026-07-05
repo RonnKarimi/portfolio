@@ -47,9 +47,9 @@ My personal portfolio website: https://github.com/RonnKarimi/portfolio
 
 ## Contact
 
-[GitHub]: (https://github.com/RonnKarimi)
+GitHub: https://github.com/RonnKarimi
 
-[Email]: (ronnmwangi17@gmail.com)
+Email: ronnmwangi17@gmail.com
 
 ---
 
